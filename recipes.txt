@@ -3,3 +3,6 @@ Welcome To java Recipes:-
 
 ProgramKheer
 PastaJava
+JavaFry
+
+Thanks
