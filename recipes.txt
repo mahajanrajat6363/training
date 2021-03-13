@@ -4,7 +4,12 @@ Welcome To java Recipes:-
 ProgramKheer
 PastaJava
 JavaFry
+Java Beans
+Spring Beans
 
 Thanks
 
+Done my changes
+
 Not DOne my changes..
+
